@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Laravel",
+      "author": "php"
+    },
+    {
+      "id": 2,
+      "title": "Code-Igniter",
+      "author": "php"
+    },
+    {
+      "id": 3,
+      "title": "Symphany",
+      "author": "php"
+    },
+    {
+      "id": 4,
+      "title": "Cake-PHP",
+      "author": "php"
+    }
+  ],
+  "enquiries": [
+    {
+      "course_id": "1",
+      "title": "Laravel",
+      "author": "php",
+      "enquiry_text": "Course Name : Laravel",
+      "id": 1
+    },
+    {
+      "course_id": "2",
+      "title": "Code-Igniter",
+      "author": "php",
+      "enquiry_text": "This is code igniters frameworks details",
+      "id": 2
+    }
+  ]
+}
